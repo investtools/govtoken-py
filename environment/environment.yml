@@ -1,0 +1,14 @@
+name: govtoken-server
+dependencies:
+  - python
+  - rust
+  - pip
+  - pip:
+    - blacksheep>=1.2.0
+    - uvicorn>=0.15.0
+    - httpie>=2.6.0
+    - pprintpp>=0.4.0
+    - ipython>=7.29.0
+    - pytest>=6.2.5
+    - pytest-cov>=3.0.0
+    - bip-utils>=2.1.0

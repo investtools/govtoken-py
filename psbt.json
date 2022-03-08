@@ -1,0 +1,12 @@
+{
+    "t": "plain",
+    "c": {  
+        "id": {
+            "name": "post_rgb",
+            "kind": "Psbt",
+            "network": "testnet"
+        },
+        "psbt": "cHNidP8BAFICAAAAAeAir+AKeuFDO8SYQR26tk+P5RHsQmTwRgRKP0BE9n+VAQAAAAD/////AYAlAAAAAAAAFgAU8E41+ymbqsrFOlQ/ZtK8P7FWmq4AAAAAAAEBHxEnAAAAAAAAFgAUNCCwAeDyVeUpHt+jxr+NwTIrFjABAwQBAAAAIgYC+wTDBE2lZhsXtfSwr6pggRXr8WtGrp02h9OGJdqX0kAUQ0/tzFQAAIABAACAAAAAgAAAAAAAIgIC+wTDBE2lZhsXtfSwr6pggRXr8WtGrp02h9OGJdqX0kAUQ0/tzFQAAIABAACAAAAAgAAAAAAG/ANSR0IBIQL7BMMETaVmGxe19LCvqmCBFevxa0aunTaH04Yl2pfSQAb8A1JHQgIglg9icrQBh02xmZmdJTbhyumQVub+BmxrMLEJa9R4/tQA",
+        "changepos": 0
+    }
+}
